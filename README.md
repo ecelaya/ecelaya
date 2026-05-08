@@ -34,7 +34,3 @@ I have a background in Statistics and Business, and I am currently focused on bu
 
 - LinkedIn: [eloy-celaya-lopez](https://www.linkedin.com/in/eloy-celaya-lopez/)
 - Projects: [github.com/ecelaya](https://github.com/ecelaya?tab=repositories)
-
----
-
-![Eloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecelaya&show_icons=true&hide_title=true&hide_border=true)
